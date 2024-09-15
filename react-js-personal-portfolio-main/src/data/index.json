@@ -1,0 +1,73 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/frontend.png",
+      "title": "Front-End",
+      "description": "HTML, CSS, Bootstrap, React"
+    },
+    {
+      "id": "2",
+      "src": "./img/Programming-lang.png",
+      "title": "Programming Language",
+      "description": "Python, Java"
+    },
+    {
+      "id": "3",
+      "src": "./img/soft-skills.png",
+      "title": "Soft Skills",
+      "description": "Communication, Attention to details, Enthusiastic Learner"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/chroma.png.png",
+      "title": "Chroma",
+      "description": "Chroma is a web application which provides tutorials about color therapy.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/AMS.png",
+      "title": "Attendance management system with face recognition",
+      "description": "The application made up of python",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "title": "MCA",
+      "college": "B M S college of Engineering",
+      "description": "Currently pursuing my MCA degree",
+      "year": "2023-2025",
+      "cgpa": "CGPA: 8.75"
+    },
+    {
+      "id": "2",
+      "title": "BSc",
+      "college": "Government Science College, Hassan",
+      "description": "Completed my BSc degree specialized in Compter Science",
+      "year": "2020-2023",
+      "cgpa": "CGPA: 9.66"
+    },
+    {
+      "id": "3",
+      "title": "Second PU",
+      "college": "St Philomena girls composite P U College",
+      "description": "Completed my PU in Science with PCMB",
+      "year": "2018-2020",
+      "cgpa": "Percentage: 92.3%"
+    },
+    {
+      "id": "4",
+      "title": "SSLC",
+      "college": "Sri R K Vidyalaya",
+      "description": "Completed SSLC in a great instituion",
+      "year": "2017-2018",
+      "cgpa": "Percentage: 94.4%"
+    }
+
+  ]
+}
